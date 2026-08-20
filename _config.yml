@@ -14,7 +14,7 @@ author:
   avatar           : "profile.png"
   name             : "N. V. Krishnendu"
   pronouns         :
-  bio              : "I am a senior gravitational wave research fellow specialising in tests of General Relativity, compact-object physics and astrophysics, waveform modelling, and gravitational wave data analysis. A member of the LIGO Scientific Collaboration since 2017, I have contributed to major analyses and, since January 2025, I am co-chairing the fundamental physics Working Group. I lead the Cosmic Explorer Science Trace-ability Studies, and one of the three coordinators of the fundamental physics division of Einstein Telescope Collaboration's Observational Science Board. My research focuses on inferring the astrophysical properties of compact binaries using current and next-generation detectors, and I contribute to science-case studies for CE, ET, LISA, and LGWA."
+  bio              : "I am a senior gravitational wave research fellow specialising in tests of General Relativity, compact-object physics and astrophysics, waveform modelling, and gravitational wave data analysis."
   location         : "United Kingdom"
   employer         : "University of Birmingham"
   uri              :
@@ -43,5 +43,28 @@ author:
   stackoverflow    :
 
   # Social media
- linkedin         :
- instagram        :
+  artstation       :
+  bluesky          :
+  facebook         :
+  flickr           :
+  foursquare       :
+  goodreads        :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  mastodon         :
+  medium           :
+  pinterest        :
+  soundcloud       :
+  steam            :
+  telegram         :
+  tumblr           :
+  twitter          :
+  vine              :
+  weibo             :
+  wikipedia        :
+  xing             :
+  youtube           :
+  zhihu            :
