@@ -68,3 +68,6 @@ author:
   xing             :
   youtube           :
   zhihu            :
+
+exclude:
+  - README.md
