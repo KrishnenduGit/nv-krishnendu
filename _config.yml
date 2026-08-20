@@ -69,5 +69,5 @@ author:
   youtube           :
   zhihu            :
 
-exclude:
-  - README.md
+readme_index:
+  enabled: false
