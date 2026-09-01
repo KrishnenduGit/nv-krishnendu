@@ -40,119 +40,32 @@
 
 
 /* =========================================
-Krishnendu - Custom Theme
-========================================= */
-
-/* -----------------------------------------
-Overall page
------------------------------------------ */
+   Krishnendu - Custom Theme
+   ========================================= */
 
 body {
-background-color: #f7f9fc;
-color: #17202a;
+  background-color: #f5f7fa;
+  color: #17202a;
 }
 
-/* -----------------------------------------
-Header / Navigation
------------------------------------------ */
-
 .masthead {
-background-color: #0b1f33;
+  background-color: #0b1f33;
 }
 
 .greedy-nav {
-background-color: #0b1f33;
+  background-color: #0b1f33;
 }
-
-.greedy-nav a {
-color: #ffffff;
-font-weight: 500;
-transition: color 0.2s ease;
-}
-
-.greedy-nav a:hover {
-color: #56b4e9;
-}
-
-/* -----------------------------------------
-Links
------------------------------------------ */
 
 a {
-color: #2a6f97;
+  color: #2a6f97;
 }
 
 a:hover {
-color: #174a68;
+  color: #174a68;
 }
-
-/* -----------------------------------------
-Profile / Sidebar
------------------------------------------ */
-
-.author__content {
-text-align: center;
-}
-
-.author__name {
-font-weight: 700;
-letter-spacing: -0.02em;
-}
-
-.author__bio {
-color: #52616b;
-font-size: 0.95em;
-line-height: 1.6;
-}
-
-/* Profile photo */
-
-.author__avatar img {
-width: 190px;
-height: 190px;
-object-fit: cover;
-border-radius: 50%;
-border: 4px solid #ffffff;
-box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
-}
-
-/* -----------------------------------------
-Main content
------------------------------------------ */
-
-.page__content {
-font-size: 1rem;
-line-height: 1.75;
-}
-
-.page__content h1,
-.page__content h2,
-.page__content h3 {
-color: #0b1f33;
-font-weight: 700;
-}
-
-.page__content h2 {
-margin-top: 2em;
-margin-bottom: 0.8em;
-}
-
-/* -----------------------------------------
-Footer
------------------------------------------ */
 
 .page__footer {
-background-color: #0b1f33;
-color: #ffffff;
+  background-color: #0b1f33;
+  color: #ffffff;
 }
 
-/* -----------------------------------------
-Responsive profile photo
------------------------------------------ */
-
-@media (max-width: 768px) {
-.author__avatar img {
-width: 150px;
-height: 150px;
-}
-}
